@@ -1,43 +1,5 @@
 *{
-  color:pink;
-  text-align: center;
-  background-image: url(https://www.shutterstock.com/image-vector/vector-background-white-cartoon-clouds-1445833733);
-}
-
-body{
-/*  background-color: violet;*/
-  opacity: 1.0;
-
-}
-
-
-
-/*h1, h2{
-  color:pink;
-
-  background-color: indigo;
-  text-align: center;
-}
-
-#byakuya{
-  color:pink;
-  background-color: black;
-  text-align: center;
-
-}
-
-.shanks{
-  color:pink;
   background-color:black;
-}
-
-.byakuya{
-
+  color:pink;
   text-align:center;
-
-}*/
-
-.picborder{
-   border-style:dotted
-   border-width:thick;  
 }
